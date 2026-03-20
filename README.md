@@ -1,2 +1,3 @@
-# advanced-bug-tracker-3jqy
-A bug and issue tracking system for modern development workflows
+# Advanced Bug Tracker 3Jqy
+
+A bug and issue tracking system for modern development workflows.
